@@ -1,0 +1,2 @@
+
+[CONFIG][2020-07-30 00:00:30]QueryData  |line93|InitConfig by /localdisk/aisino/bec-blockchainsdk/config/fabricClient.yaml failed: loading config file failed: open /localdisk/aisino/bec-blockchainsdk/config/fabricClient.yaml: no such file or directory
